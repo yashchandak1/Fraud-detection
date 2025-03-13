@@ -53,6 +53,3 @@ git commit -m "Updated automation pipeline"
 git push origin main
 ```
 
-## Authors
-- Rajas Samse
-
